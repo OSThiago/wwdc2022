@@ -51,7 +51,7 @@ public class ChoiceScene: SKScene {
         let title = SKLabelNode(text: "Shutter" )
         title.fontSize = 50
         // TODO: - Trocar a fonte
-        //title.fontSize = 80
+        title.fontSize = 60
         title.zPosition = 2
         title.position.y = labelNameYposition
         title.name = "titleChoice"
